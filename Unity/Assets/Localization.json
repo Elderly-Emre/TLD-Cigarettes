@@ -1,68 +1,90 @@
 {
   "GAMEPLAY_Cigarette": {
-    "English": "Cigarette"
+    "English": "Cigarette",
+    "Turkish": "Sigara"
   },
   "GAMEPLAY_CigaretteDescription": {
-    "English": "A filtered tobacco cigarette."
+    "English": "A filtered tobacco cigarette.",
+    "Turkish": "Filtrelenmiş Tütün Sigarası"
   }
   "GAMEPLAY_CigaretteAction": {
-	"English": "Smoking"
+	"English": "Smoking",
+  "Turkish": "Tüttürülüyor"
   },
   "GAMEPLAY_CigaretteSingle": {
-    "English": "Cigarette"
+    "English": "Cigarette",
+    "Turkish": "Sigara"
   },
   "GAMEPLAY_CigaretteMultiple": {
-    "English": "Cigarettes"
+    "English": "Cigarettes",
+    "Turkish": "Sigaralar"
   },
   "GAMEPLAY_CigaretteLucky": {
-    "English": "Cigarette"
+    "English": "Cigarette",
+    "Turkish": "Sigara"
   },
   "GAMEPLAY_CigaretteLuckyDescription": {
-    "English": "An unfiltered Lucky Strike cigarette."
+    "English": "An unfiltered Lucky Strike cigarette. One of the rare kind.",
+    "Turkish": "Filtrelenmemiş bir Lucky Strike sigarası. Nadir türlerden biri."
   }
   "GAMEPLAY_CigaretteLuckyAction": {
-	"English": "Smoking"
+	"English": "Smoking",
+  "Turkish": "Tüttürülüyor"
   },
   "GAMEPLAY_CigaretteLuckySingle": {
-    "English": "Cigarette"
+    "English": "Cigarette",
+    "Turkish": "Sigara"
   },
   "GAMEPLAY_CigaretteLuckyMultiple": {
-    "English": "Cigarettes"
+    "English": "Cigarettes",
+    "Turkish": "Sigaralar"
   },
   "GAMEPLAY_CigarettePackCamel": {
-    "English": "Cigarette Pack"
+    "English": "Cigarette Pack",
+    "Turkish": "Sigara Paketi"
   },
   "GAMEPLAY_CigarettePackCamelDescription": {
-    "English": "A pack of Camel cigarettes."  
+    "English": "A pack of Camel cigarettes.",
+    "Turkish": "Camel Sigara Paketi"  
   },
   "GAMEPLAY_CigarettePackLucky": {
-    "English": "Cigarette Pack"
+    "English": "Cigarette Pack",
+    "Turkish": "Sigara Paketi"
   },
   "GAMEPLAY_CigarettePackLuckyDescription": {
-    "English": "A pack of Lucky Strike cigarettes."  
+    "English": "A pack of Lucky Strike cigarettes. One of the rare kind.",
+    "Turkish": "Lucky Strike Sigara Paketi. Nadir Türlerden Biri"  
   },
    "GAMEPLAY_CigarettePackLuckySmall": {
-    "English": "Vintage Cigarettes"
+    "English": "Vintage Cigarettes",
+    "Turkish": "Vintage Sigarası"
   },
   "GAMEPLAY_CigarettePackLuckySmallDescription": {
-    "English": "A small vintage pack of Lucky Strike cigarettes."  
+    "English": "A small vintage pack of Lucky Strike cigarettes. One of the rare kind.",
+    "Turkish": "Küçük bir eski model Lucky Strike sigara paketi. Nadir türlerden biri."  
   }, 
    "GAMEPLAY_CigarettePackHappiness": {
-    "English": "Cigarette Pack"
+    "English": "Cigarette Pack",
+    "Turkish": "Sigara Paketi"
   },
   "GAMEPLAY_CigarettePackHappinessDescription": {
-    "English": "A pack of Double Happiness cigarettes."  
+    "English": "A pack of Double Happiness cigarettes.",
+    "Turkish": "Bir paket Double Happiness sigarası."  
   },
    "GAMEPLAY_CigarettePackMenthol": {
-    "English": "Cigarette Pack"
+    "English": "Cigarette Pack",
+    "Turkish": "Sigara Paketi"
   },
   "GAMEPLAY_CigarettePackMentholDescription": {
-    "English": "A pack of Marlboro Menthol cigarettes."  
+    "English": "A pack of Marlboro Menthol cigarettes.",
+    "Turkish": "Bir Paket Mentollü Marblboro Sigarası" 
   },
    "GAMEPLAY_Lighter": {
-    "English": "Lighter"
+    "English": "Lighter",
+    "Turkish": "Çakmak"
   },
   "GAMEPLAY_LighterDescription": {
-    "English": "A small flint lighter. Doesn't work, but still contains some fuel."  
+    "English": "A small flint lighter. Doesn't work, but still contains some fuel.",
+    "Turkish": "Küçük bir çakmak. Çalışmıyor, ancak yine de biraz yakıt içeriyor."  
   },      
 }
